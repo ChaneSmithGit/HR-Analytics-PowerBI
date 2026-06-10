@@ -1,6 +1,6 @@
 # 👥 Corporate Human Resources Analytics & Workforce Planning Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/ChaneSmithGit/HR-Analytics-PowerBI/blob/main/HR_Dashboard.PNG)
 
 ---
 
